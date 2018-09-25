@@ -1,9 +1,0 @@
-Manifest-Version: 1.0
-Built-By: luischaim
-Build-Jdk: 9.0.4
-Implementation-Title: spring-aula6
-Implementation-Version: 1.0-SNAPSHOT
-Implementation-Vendor-Id: br.com.whs.springmongodb
-Implementation-Vendor: Pivotal Software, Inc.
-Created-By: Maven Integration for Eclipse
-
