@@ -1,0 +1,13 @@
+{
+  "name": "lfchaim",
+  "profile": [
+    {
+      "name": "admin"
+    },
+    {
+      "name": "dev"
+    }
+  ],
+  "age": 36,
+  "email": "lfchaim@gmail.com"
+}
